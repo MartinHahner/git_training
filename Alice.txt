@@ -2,3 +2,4 @@ Hi! I'm Alice.
 I'm a file someone added to this repository a long time ago.
 Then, Martin changed me in the `change_alice` branch.
 Now, Martin brings more and more people to the party.
+Then a bit later someone made another remote change.
