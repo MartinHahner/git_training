@@ -1,4 +1,4 @@
-Hi! I'm Alice. 
+Hi! I'm Alice. I followed the white rabbit.
 I'm a file someone added to this repository a long time ago.
 Then, Martin changed me in the `change_alice` branch.
 Now, Martin brings more and more people to the party.
