@@ -1,2 +1,2 @@
-Hi! I'm Bob. I'm new here.
+Hi! I'm Eve. I'm here to mess up your merge.
 Martin just created me on the `master` branch.
